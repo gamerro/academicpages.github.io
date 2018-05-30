@@ -14,7 +14,7 @@ description              : &PhD Student at EPFL"
 url                      : https://gamerro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gamerro/gamerro.github.io"
-teaser                   :  "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. 
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -71,7 +71,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,31 +83,14 @@ author:
   bio              : "PhD Student at EPFL, Timber Engineering"
   location         : "Lausanne, Switzerland"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "julien.gamerro@epfl.ch"
-  uri              :
   bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
   linkedin         : "juliengamerro/"
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
+  orcid            : #"http://orcid.org/yourorcidurl"
+  twitter          : #"replacethistwitterhandle"
   youtube          :
   wikipedia        :
 
