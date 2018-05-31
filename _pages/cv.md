@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering, EPFL, [IBOIS](https://ibois.epfl.ch), Switzerland, 2020 (expected)
-  * Supervisor : Prof. Weinand and Dr. Bocquet
+* **Ph.D in Civil Engineering**, EPFL, Switzerland, 2020 (expected)
+  * Thesis: Development of Prefabricated Timber Structural Elements using Integral Mechanical Attachments
+  * Institute: Laboratory for Timber Constructions [IBOIS](https://ibois.epfl.ch)
+  * Supervisors: Prof. Y. Weinand and Dr. J. F. Bocquet
 * M.B.A., [ISAM-IAE](https://www.iae-france.fr/en/), France, 2016
 * M.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2016
 * B.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
