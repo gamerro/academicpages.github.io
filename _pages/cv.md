@@ -12,11 +12,14 @@ redirect_from:
 Education
 ======
 * **Ph.D in Civil Engineering**, EPFL, Switzerland, 2020 (expected)
-  * Thesis: Development of Prefabricated Timber Structural Elements using Integral Mechanical Attachments
-  * Institute: Laboratory for Timber Constructions [IBOIS](https://ibois.epfl.ch)
-  * Supervisors: Prof. Y. Weinand and Dr. J. F. Bocquet
-* M.B.A., [ISAM-IAE](https://www.iae-france.fr/en/), France, 2016
-* M.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2016
+  * **Thesis:** Development of Prefabricated Timber Structural Elements using Integral Mechanical Attachments
+  * **Institute:** Laboratory for Timber Constructions [IBOIS](https://ibois.epfl.ch)
+  * **Supervisors:** Prof. Y. Weinand and Dr. J. F. Bocquet
+* **M.B.A.**, [ISAM-IAE](https://www.iae-france.fr/en/), France, 2016
+  * Attended the MBA program during the last year of my engineering school (selected students)
+* **M.S. in Engineering**, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2016
+  * **Specialization:** Timber engineering
+  * **Award:** Excellence level distinction in the field of timber structure designing
 * B.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
 * Youth Training in Joinery, [Fédération compagnonnique des métiers du Bâtiment](http://compagnonsdutourdefrance.org), France, 2010
 
