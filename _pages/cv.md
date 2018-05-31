@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* Youth Training in Joinery, [Fédération compagnonnique des métiers du Bâtiment](http://compagnonsdutourdefrance.org), France, 2010
-* B.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
-* M.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2016
-* M.B.A., [ISAM-IAE](https://www.iae-france.fr/en/), France, 2016
 * Ph.D in Civil Engineering, EPFL, [IBOIS](https://ibois.epfl.ch), Switzerland, 2020 (expected)
+  * Supervisor : Prof. Weinand and Dr. Bocquet
+* M.B.A., [ISAM-IAE](https://www.iae-france.fr/en/), France, 2016
+* M.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2016
+* B.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
+* Youth Training in Joinery, [Fédération compagnonnique des métiers du Bâtiment](http://compagnonsdutourdefrance.org), France, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* March 2015: Research Assistant
   * EPFL
   * Duties included: Timber engineering
   * Supervisor: Prof. Weinand and Prof. Triboulot
