@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D in Civil Engineering**, EPFL, Switzerland, 2020 (expected)
   * **Thesis:** Development of Prefabricated Timber Structural Elements using Integral Mechanical Attachments
-  * **Institute:** Laboratory for Timber Constructions [IBOIS](https://ibois.epfl.ch)
+  * **Institute:** Laboratory for Timber Constructions [IBOIS](https://ibois.epfl.ch "Laboratory WebPage")
   * **Supervisors:** Prof. Y. Weinand and Dr. J. F. Bocquet
 * **M.B.A.**, [ISAM-IAE](https://www.iae-france.fr/en/), France, 2016
   * Attended the MBA program during the last year of my engineering school (selected students)
