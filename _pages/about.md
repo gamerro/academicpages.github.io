@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am Julien, an engineer and PhD student at [EPFL](https://www.epfl.ch/index.en.html). I am working at the laboratory for timber constructions [IBOIS](https://ibois.epfl.ch) since 2016. I am also part of the National Centre of Competence in Research in Digital Fabrication [NCCR dfab](http://www.dfab.ch) since November 2017.
+I am Julien, an engineer and PhD student at [EPFL](https://www.epfl.ch/index.en.html). I am working at the laboratory for timber constructions [IBOIS](https://ibois.epfl.ch) since 2016. I am also part of the National Centre of Competence in Research for Digital Fabrication [NCCR dfab](http://www.dfab.ch) since November 2017.
 
 Others
 ======
