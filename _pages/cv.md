@@ -21,7 +21,11 @@ Education
   * **Specialization:** Timber engineering
   * **Award:** Excellence level distinction in the field of timber structure designing
 * **B.S. in Engineering**, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
-* Youth Training in Joinery, [Fédération compagnonnique des métiers du Bâtiment](http://compagnonsdutourdefrance.org), France, 2010
+
+Technical Degrees
+------
+* **BTEC Higher National Diploma** in Timber Construction, France, 2012
+* **Youth Training** in Joinery, [Fédération compagnonnique des métiers du Bâtiment](http://compagnonsdutourdefrance.org), France, 2010
 
 Work experience
 ======
