@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering Sciences, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), 2014
-* M.S. in Engineering Sciences, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), 2016
-* M.S. in Business Administration, [ISAM-IAE](https://www.iae-france.fr/en/), 2016
-* Ph.D in Civil Engineering, EPFL, [IBOIS](https://ibois.epfl.ch) , 2020 (expected)
+* Youth Training in Joinery, [Fédération compagnonnique des métiers du Bâtiment](http://compagnonsdutourdefrance.org), France, 2010
+* B.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
+* M.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2016
+* M.B.A., [ISAM-IAE](https://www.iae-france.fr/en/), France, 2016
+* Ph.D in Civil Engineering, EPFL, [IBOIS](https://ibois.epfl.ch), Switzerland, 2020 (expected)
 
 Work experience
 ======
