@@ -20,20 +20,28 @@ Education
 * **M.S. in Engineering**, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2016
   * **Specialization:** Timber engineering
   * **Award:** Excellence level distinction in the field of timber structure designing
-* B.S. in Engineering, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
+* **B.S. in Engineering**, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
 * Youth Training in Joinery, [Fédération compagnonnique des métiers du Bâtiment](http://compagnonsdutourdefrance.org), France, 2010
 
 Work experience
 ======
-* March 2015: Research Assistant
-  * EPFL
-  * Duties included: Timber engineering
-  * Supervisor: Prof. Weinand and Prof. Triboulot
+* March 2016 - Now: Research Assistant
+  * Laboratory for Timber Constructions, EPFL, Lausanne, Switzerland
+  * Duties included: Research, Technology Transfer and Teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2015 - March 2016: R&D Internship
+  * [PopUp House company](https://www.popup-house.com/en/), Aix-en-Provence, France
+  * Duties included: Experimental tests and calculation models
+  * Supervisor: Dr. J. F. Bocquet
+
+* April 2015 - July 2015: Assistant Project Manager
+  * EGP BAT, Annecy, France
+  * Duties included: Organization and planning processes of timber and concrete buildings sites
+
+  * Sept 2009 - Sept 2012: Apprenticeship
+    * [Dunoyer](https://www.dunoyer.com) and [Labat & Sierra](https://www.labat-et-sierra.com), Annecy, France
+    * Duties included: Design, fabrication and site supervision of timber constructions projects
+    * Diploma: BTEC Higher National Diploma in Timber Construction
 
 Skills
 ======
