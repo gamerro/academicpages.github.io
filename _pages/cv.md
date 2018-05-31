@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering Sciences, ENSTIB, 2014
-* M.S. in Engineering Sciences, ENSTIB, 2016
-* Ph.D in Civil Engineering, EPFL, 2020 (expected)
+* B.S. in Engineering Sciences, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), 2014
+* M.S. in Engineering Sciences, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), 2016
+* M.S. in Business Administration, [ISAM-IAE](https://www.iae-france.fr/en/), 2016
+* Ph.D in Civil Engineering, EPFL, [IBOIS](https://ibois.epfl.ch) , 2020 (expected)
 
 Work experience
 ======
