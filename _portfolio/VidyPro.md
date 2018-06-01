@@ -6,4 +6,6 @@ collection: portfolio
 
 Add description and photos of the project
 
+Photo credit: Ilda Kramer
+
 Website + Press article
