@@ -5,7 +5,7 @@ permalink: /publication/VidyBook
 excerpt: 'Book about the new Vidy theatre (in French). An innovative timber structure!'
 date: 2015-10-01
 venue: 'Presses Polytechniques et Universitaires Romandes (PPUR)'
-paperurl: 'https://www.ppur.org/en/product/855/9782889151202/Le%20pavillon%20en%20bois%20du%20Theatre%20de%20Vidy%20'
+paperurl: '[Vidy Book Website](https://www.ppur.org/en/product/855/9782889151202/Le%20pavillon%20en%20bois%20du%20Theatre%20de%20Vidy%20)'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 (FRENCH BOOK)

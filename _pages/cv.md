@@ -34,7 +34,7 @@ Work experience
 
 * Sept 2015 - March 2016: R&D Internship
   * [PopUp House company](https://www.popup-house.com/en/), Aix-en-Provence, France
-  * Duties included: Experimental tests and calculation models
+  * Duties included: Experimental tests and calculation models for new timber frame structure.
   * Supervisor: Dr. J. F. Bocquet
 
 * April 2015 - July 2015: Assistant Project Manager
