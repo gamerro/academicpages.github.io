@@ -52,6 +52,7 @@ Skills
 * Management and Communication
 * Softwares: Cadwork, Rhinoceros, Abaqus, AcorBat
 * Coding: Python, Matlab, Gcode, Latex
+
 <!---
   * Design and calculation of timber and hybrid structures (wood/concrete, wood/steel)
   * Research and development with laboratory activities
