@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+##Education
 * **Ph.D in Civil Engineering**, EPFL, Switzerland, 2020 (expected)
   * **Thesis:** Development of Prefabricated Timber Structural Elements using Integral Mechanical Attachments
   * **Institute:** Laboratory for Timber Constructions [IBOIS](https://ibois.epfl.ch "Laboratory WebPage")
@@ -22,7 +21,7 @@ Education
   * **Award:** Excellence level distinction in the field of timber structure designing
 * **B.S. in Engineering**, [ENSTIB](http://www.enstib.univ-lorraine.fr/en/), France, 2014
 
-Technical Degrees
+####Technical Degrees
 ------
 * **BTEC Higher National Diploma** in Timber Construction, France, 2012
 * **Youth Training** in Joinery, [Fédération compagnonnique des métiers du Bâtiment](http://compagnonsdutourdefrance.org), France, 2010
