@@ -41,10 +41,10 @@ Work experience
   * EGP BAT, Annecy, France
   * Duties included: Organization and planning processes of timber and concrete buildings sites
 
-* Sept 2009 - Sept 2012: Apprenticeship
+* Sept 2009 - Sept 2012: Apprenticeship in Timber Construction
   * [Dunoyer](https://www.dunoyer.com) and [Labat & Sierra](https://www.labat-et-sierra.com), Annecy, France
   * Duties included: Design, fabrication and site supervision of timber constructions projects
-  * Diploma: BTEC Higher National Diploma in Timber Construction
+  * Diploma: Youth training and BTEC Higher National Diploma
 
 Skills
 ======
