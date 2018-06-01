@@ -9,8 +9,7 @@
 # geopy/Nominatim, and uses the getorg library to output data, HTML,
 # and Javascript for a standalone cluster map.
 #
-# Requires: glob, getorg, geopy
-
+# Requires: glob, getorg, geopy 
 import glob
 import getorg
 from geopy import Nominatim
