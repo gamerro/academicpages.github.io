@@ -31,16 +31,13 @@ Work experience
 * March 2016 - Now: Research Assistant
   * Laboratory for Timber Constructions, EPFL, Lausanne, Switzerland
   * Duties included: Research, Technology Transfer and Teaching
-
 * Sept 2015 - March 2016: R&D Internship
   * [PopUp House company](https://www.popup-house.com/en/), Aix-en-Provence, France
   * Duties included: Experimental tests and calculation models for new timber frame structure.
   * Supervisor: Dr. J. F. Bocquet
-
 * April 2015 - July 2015: Assistant Project Manager
   * EGP BAT, Annecy, France
   * Duties included: Organization and planning processes of timber and concrete buildings sites
-
 * Sept 2009 - Sept 2012: Apprenticeship in Timber Construction
   * [Dunoyer](https://www.dunoyer.com) and [Labat & Sierra](https://www.labat-et-sierra.com), Annecy, France
   * Duties included: Design, fabrication and site supervision of timber constructions projects
@@ -48,12 +45,25 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Civil Engineering
+* Timber Engineering
+* Research and Development
+* Digital Fabrication
+* Management and Communication
+* Softwares: Cadwork, Rhinoceros, Abaqus, AcorBat
+* Coding: Python, Matlab, Gcode, Latex
+<!---
+  * Design and calculation of timber and hybrid structures (wood/concrete, wood/steel)
+  * Research and development with laboratory activities
+  * Softwares: Cadwork, Rhinoceros, RFEM, Abaqus, AcorBat, Matlab,
+-->
+
+Languages
+======
+* French (Mother tongue)
+* English (C1)
+* Spanish (A2)
+* German (Beginner)
 
 Publications
 ======
@@ -72,7 +82,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
