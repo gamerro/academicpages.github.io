@@ -45,8 +45,7 @@ Work experience
 
 Skills
 ======
-* Civil Engineering
-* Timber Engineering
+* Civil and Timber Engineering
 * Research and Development
 * Digital Fabrication
 * Management and Communication
