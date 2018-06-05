@@ -28,17 +28,17 @@ Education
 
 Work experience
 ======
-* March 2016 - Now: Research Assistant
+* March 2016 - Now: **Research Assistant**
   * Laboratory for Timber Constructions, EPFL, Lausanne, Switzerland
   * Duties included: Research, Technology Transfer and Teaching
-* Sept 2015 - March 2016: R&D Internship
+* August 2015 - March 2016: **R&D Internship**
   * [PopUp House company](https://www.popup-house.com/en/), Aix-en-Provence, France
   * Duties included: Experimental tests and calculation models for new timber frame structure.
   * Supervisor: Dr. J. F. Bocquet
-* April 2015 - July 2015: Assistant Project Manager
+* April 2015 - July 2015: **Assistant Project Manager**
   * EGP BAT, Annecy, France
   * Duties included: Organization and planning processes of timber and concrete buildings sites
-* Sept 2009 - Sept 2012: Apprenticeship in Timber Construction
+* Sept 2009 - Sept 2012: **Apprenticeship in Timber Construction**
   * [Dunoyer](https://www.dunoyer.com) and [Labat & Sierra](https://www.labat-et-sierra.com), Annecy, France
   * Duties included: Design, fabrication and site supervision of timber constructions projects
   * Diploma: Youth training and BTEC Higher National Diploma
