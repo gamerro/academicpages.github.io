@@ -16,7 +16,7 @@ from geopy import Nominatim
 
 g = glob.glob("*.md")
 
-geocoder = Nominatim(user_agent="my-application")
+geocoder = Nominatim()
 location_dict = {}
 location = ""
 permalink = ""
@@ -45,7 +45,7 @@ for file in g:
 
         key = str(title + " | " + venue + ", " + location)
 
-        location_dict[key] = geocoder.geocode(location, timeout=None)
+        location_dict[key] = geocoder.geocode(location)
         print(key, "\n", location_dict[key])
     count = count + 1
 
