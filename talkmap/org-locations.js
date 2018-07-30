@@ -1,4 +1,5 @@
 var addressPoints = [
+  [
     "Berkeley CA, USA",
     37.8708393,
     -122.2728638
@@ -18,3 +19,4 @@ var addressPoints = [
     34.0543942,
     -118.2439408
   ]
+];
