@@ -6,8 +6,8 @@ var addressPoints = [
   ],
   [
     "Dijon, France | 8th International Wood Construction Forum |",
-    5.04148,
-    47.322047
+    47.316667,
+    5.016667
   ],
   [
     "Seoul, South Korea | World Conference on Timber Engineering 2018 |",
