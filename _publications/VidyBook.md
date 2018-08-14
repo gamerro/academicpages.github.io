@@ -1,5 +1,5 @@
 ---
-title: "Le pavillon en bois du Théâtre de Vidy."
+title: "Le Pavillon en Bois du Théâtre de Vidy."
 collection: publications
 permalink: /publication/VidyBook
 excerpt: 'Book about the new Vidy theatre (in French). An innovative timber structure!'
