@@ -5,18 +5,13 @@ var addressPoints = [
     11.576124
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Dijon, France | 8th International Wood Construction Forum |",
+    5.04148,
+    47.322047
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Seoul, South Korea | World Conference on Timber Engineering 2018 |",
+    37.53260,
+    127.024612
   ]
 ];
