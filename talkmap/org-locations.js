@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Munich, Germany | European Cooperation in Science and Technology (COST FP1402) Workshop |",
+    48.137154,
+    11.576124
   ],
   [
     "London, UK",
