@@ -2,7 +2,7 @@
 title: "Future challenges and need for research in timber engineering"
 collection: talks
 type: "European Cooperation in Science and Technology (COST FP1402) Workshop"
-permalink: /talks/2018COSTZurich
+permalink: /talks/2018Zurich
 venue: "ETHZ"
 date: 2018-25-10
 location: "Zürich, Switzerland"
