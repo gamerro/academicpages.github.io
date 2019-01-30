@@ -2,7 +2,7 @@
 title: "How will we plan and build in 25 years and how will this process be regulated?"
 collection: talks
 type: "European Cooperation in Science and Technology (COST FP1402) Workshop"
-permalink: /talks/2018COST
+permalink: /talks/2018Munich
 venue: "Oskar von Miller Forum"
 date: 2018-09-12
 location: "Munich, Germany"
