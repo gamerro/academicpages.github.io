@@ -13,5 +13,7 @@ A man who wants to act for the future cannot ignore two major facts. Firstly, th
 A colossal challenge awaits the construction field with the current population level. It will be necessary to deconstruct the less efficient structures, to build where it has been deconstructed by densifying the housing and to adapt today's buildings where it is possible. To make a successful transition, five reorganization areas should be implemented: one sociological and four technological.
 
 [Abstract of the Presentation](http://gamerro.github.io/files/COSTMunich.pdf)
+
 [Minutes of the Workshop](http://gamerro.github.io/files/COSTMunichMinute.pdf)
+
 [Website of COST Action FP1402](http://www.costfp1402.tum.de/home/)
