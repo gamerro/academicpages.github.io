@@ -4,7 +4,7 @@ collection: talks
 type: "blabla"
 permalink: /talks/2018Zurich
 venue: "ETHZ"
-date: 2018-25-10
+date: 2018-10-25
 location: "Zürich, Switzerland"
 ---
 
