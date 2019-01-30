@@ -8,7 +8,7 @@ date: 2018-10-25
 location: "Zürich, Switzerland"
 ---
 
-Describe this talk
+With the increasing interest for automation in the construction industry, timber structures are evolving faster and faster. In this talk, I present the impact of digital technologies on research in timber engineering.
 
 [Abstract of the Presentation](http://gamerro.github.io/files/COSTZurich.pdf)
 
