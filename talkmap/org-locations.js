@@ -5,6 +5,11 @@ var addressPoints = [
     11.576124
   ],
   [
+    "Växjö, Sweden | International Conference on Computational Methods in Wood Mechanics |",
+    56.8833298,
+    14.7999968
+  ],
+  [
     "Zürich, Switzerland | COST FP1402 | Future challenges and need for research in timber engineering |",
     47.3686498,
     8.5391825
