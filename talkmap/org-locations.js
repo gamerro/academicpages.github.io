@@ -1,6 +1,11 @@
 var addressPoints = [
   [
-    "Munich, Germany | European Cooperation in Science and Technology (COST FP1402) Workshop |",
+    "Munich, Germany | COST FP1402 | How will we plan and build in 25 years and how will this process be regulated? |",
+    48.137154,
+    11.576124
+  ],
+  [
+    "Zürich, Switzerland | COST FP1402 | Future challenges and need for research in timber engineering |",
     48.137154,
     11.576124
   ],
