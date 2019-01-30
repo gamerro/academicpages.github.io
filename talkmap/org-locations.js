@@ -4,7 +4,11 @@ var addressPoints = [
     48.137154,
     11.576124
   ],
-
+  [
+    "Zürich, Switzerland | COST FP1402 | Future challenges and need for research in timber engineering |",
+    47.3686498,
+    8.5391825
+  ],
   [
     "Dijon, France | 8th International Wood Construction Forum |",
     47.316667,
