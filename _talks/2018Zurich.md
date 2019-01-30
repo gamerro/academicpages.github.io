@@ -10,8 +10,6 @@ location: "Zürich, Switzerland"
 
 Describe this talk
 
-[Presentation](http://gamerro.github.io/files/COSTZurich.pdf)
-
+[Abstract of the Presentation](http://gamerro.github.io/files/COSTZurich.pdf)
 [Minutes of the Workshop](http://gamerro.github.io/files/COSTZurichMinute.pdf)
-
 [Website of COST Action FP1402](http://www.costfp1402.tum.de/home/)
