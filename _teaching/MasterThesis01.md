@@ -2,7 +2,7 @@
 title: "Master Thesis Supervision"
 collection: teaching
 type: "Undergraduate course, Supervision"
-permalink: /teaching/2018-MasterThesis
+permalink: /teaching/MasterThesis01
 venue: "EPFL"
 date: 2017-Ongoing
 location: "Lausanne, Switzerland"
