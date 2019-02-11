@@ -1,5 +1,5 @@
 ---
-title: "Numerical modeling of timber structures - MSc Project Supervision"
+title: "Numerical modeling of timber structures - Master Project Supervision"
 collection: teaching
 type: "Master Project, Supervision"
 permalink: /teaching/MasterThesis01
