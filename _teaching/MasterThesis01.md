@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course, Supervision"
 permalink: /teaching/MasterThesis01
 venue: "EPFL"
-date: 2017-Ongoing
+date: 2017-09-11
 location: "Lausanne, Switzerland"
 ---
 
