@@ -1,6 +1,6 @@
 ---
 title: "Rotational behavior of wood-wood connections"
-excerpt: "Research project for connections of timber plate structure <br/><img src='/images/rotation01.jpg'>"
+excerpt: "Research project for connections of timber plate structure <br/><img src='/images/rotation01.png'>"
 collection: portfolio
 ---
 
