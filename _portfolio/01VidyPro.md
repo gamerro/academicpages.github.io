@@ -12,7 +12,11 @@ You can click on this image to see the project video:
 [Clik here to have all the information concerning the project](https://ibois.epfl.ch/page-139247-en.html)
 
 **Photos:** (credit: Ilda Kramer)
+
 ![Image](/images/vidy01.jpg)
+
 ![Image](/images/vidy02.jpg)
+
 ![Image](/images/vidy03.jpg)
+
 ![Image](/images/vidy04.jpg)
