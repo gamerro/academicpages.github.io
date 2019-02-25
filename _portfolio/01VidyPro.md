@@ -9,6 +9,7 @@ I participated in the structural design of an innovative wood-wood connection de
 You can click on this image to see the project video:
 [![ImageVideo](/images/Imagevideoyoutube.png)](https://www.youtube.com/watch?v=co8yamUb6nI)
 
+**Project Information:**
 [Clik here to have all the information concerning the project](https://ibois.epfl.ch/page-139247-en.html)
 
 **Photos:** (credit: Ilda Kramer)
