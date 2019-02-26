@@ -20,4 +20,4 @@ Expected displacements and physical sensors locations
 ![Sensors](/images/popup04.png)
 
 Timber frame specimen under test with DIC targets
-![Specimen](/images/popup05.png)
+![Specimen](/images/popup06.png)
