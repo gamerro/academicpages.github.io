@@ -5,26 +5,22 @@ collection: portfolio
 ---
 I studied the influence of rigid insulation between thin Laminated Lumber Veneer (LVL) beams on their buckling properties.
 
-They are several existing methods to calculate the buckling behavior of beams. In this work, we compared the two methods described respectively in Eurocode 5 and in the german annex of DIN 1052. 
+We developed an experimental setup to determined the maximum applied force when the buckling occurred.
 
-
-
-Without rigid insulation:
-![Image](/images/buckling04.png)
-
-With rigid insulation:
-![Image](/images/buckling06.png)
-
-**Pictures of my work:**
-
-Experimental Setup to study buckling
+Experimental Setup:
 ![Image](/images/buckling08.png)
 
-Calculation models with mesh of beam elements
+Several specimens have been tested to obtain a coherent database for comparison and analysis.
+
+Specimen without rigid insulation:
+![Image](/images/buckling04.png)
+
+Specimen with rigid insulation:
+![Image](/images/buckling06.png)
+
+They are several existing methods to calculate the buckling behavior of beams. In this work, we compared the two methods described respectively in Eurocode 5 and in the annex of the German standard DIN 1052. Moreover, we developed also a calculation models made of a mesh of beam elements to predict the different buckling modes. With this calculation model, different type of insulations or lateral bracings could be taken into consideration for the prediction of buckling for thin LVL beams.
+
+Developed calculation models, left: without rigid insulation, right: with rigid insulation:
 ![Image](/images/buckling07.png)
-
-
-[Link01 if needed](http://gamerro.github.io/files/WCTE2018.pdf)
-
 
 **Team:** [Dr. Jean-François Bocquet](http://lermab.univ-lorraine.fr/membres/bocquet-jean-francois)
