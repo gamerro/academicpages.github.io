@@ -8,16 +8,16 @@ During my last year of engineering school, I worked on the mechanical characteri
 You can click on this image to see the concept of PopUp House:
 [![ImageVideo](/images/popup01.jpg)](https://vimeo.com/81180775)
 
-**Some pictures and explanation of my work:**
+**Some pictures of my work:**
 
 3D CAO of the experimental setup
 ![TestSetUp](/images/popup02.png)
 
 Digital Image Correlation (DIC) was used to recorded the displacements
-![TestSetUp](/images/popup03.png)
+![DIC](/images/popup03.png)
 
 Expected displacements and physical sensors locations
-![TestSetUp](/images/popup04.png)
+![Sensors](/images/popup04.png)
 
 Timber frame specimen under test with DIC targets
-![TestSetUp](/images/popup05.png)
+![Specimen](/images/popup05.png)
