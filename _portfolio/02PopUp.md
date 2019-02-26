@@ -14,4 +14,4 @@ You can click on this image to see the concept of PopUp House:
 
 **My contribution:**
 
-![Image](/images/popup02.jpg)
+![Image](/images/popup02.png)
