@@ -3,10 +3,17 @@ title: "Buckling of thin LVL beams"
 excerpt: "Research project for the buckling characterization of thin LVL beams <br/><img src='/images/bucklingLVL.png'>"
 collection: portfolio
 ---
-
 I studied the influence of rigid insulation between thin Laminated Lumber Veneer (LVL) beams on their buckling properties.
 
+They are several existing methods to calculate the buckling behavior of beams. In this work, we compared the two methods described respectively in Eurocode 5 and in the german annex of DIN 1052. 
+
+
+
+Without rigid insulation:
 ![Image](/images/buckling04.png)
+
+With rigid insulation:
+![Image](/images/buckling06.png)
 
 **Pictures of my work:**
 

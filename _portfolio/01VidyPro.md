@@ -1,6 +1,6 @@
 ---
 title: "Vidy Theatre"
-excerpt: "A new timber structure using wood connections<br/><img src='/images/pavillonterreKramer16.jpg'>"
+excerpt: "An innovative timber structure using wood connections<br/><img src='/images/pavillonterreKramer16.jpg'>"
 collection: portfolio
 ---
 
