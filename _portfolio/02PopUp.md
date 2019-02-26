@@ -5,7 +5,7 @@ collection: portfolio
 ---
 During my last year of engineering school, I worked on the mechanical characterization of a new timber frame concept developed by the company [PopUp House](https://www.popup-house.com). My job was to assess the resistant capacity under lateral loads like wind. An experimental campaign was performed at the [National School of Wood Technologies and Industries](http://www.enstib.univ-lorraine.fr/en/) in order to improve and guide this new concept to the construction market.
 
-You can click on this image to see the concept of PopUp House:
+You can click on this image to see the concept of PopUp House (Video):
 [![ImageVideo](/images/popup01.jpg)](https://vimeo.com/81180775)
 
 **Some pictures of my work:**
