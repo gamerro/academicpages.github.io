@@ -4,7 +4,8 @@ excerpt: "Research project for the buckling characterization of thin LVL beams <
 collection: portfolio
 ---
 
-Explain the project.
+I studied the influence of rigid insulation between thin Laminated Lumber Veneer (LVL) beams on their buckling properties.
+
 ![Image](/images/buckling04.png)
 
 **Pictures of my work:**
@@ -17,3 +18,6 @@ Calculation models with mesh of beam elements
 
 
 [Link01 if needed](http://gamerro.github.io/files/WCTE2018.pdf)
+
+
+**Team:** [Dr. Jean-François Bocquet](http://lermab.univ-lorraine.fr/membres/bocquet-jean-francois)
