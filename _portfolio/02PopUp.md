@@ -9,7 +9,6 @@ You can click on this image to see the concept of PopUp House:
 [![ImageVideo](/images/popup01.jpg)](https://vimeo.com/81180775)
 
 **Company Website:**
-
 [PopUp House](https://www.popup-house.com)
 
 **My contribution:**
