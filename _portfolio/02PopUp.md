@@ -13,7 +13,7 @@ You can click on this image to see the concept of PopUp House:
 3D CAO of the experimental setup
 ![TestSetUp](/images/popup07.png)
 
-Digital Image Correlation (DIC) was used to recorded the displacements
+Digital Image Correlation (DIC) was used to record the displacements
 ![DIC](/images/popup03.png)
 
 Expected displacements and physical sensors locations
