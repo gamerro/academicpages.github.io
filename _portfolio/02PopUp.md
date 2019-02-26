@@ -8,7 +8,7 @@ During my last year of engineering school, I worked on the mechanical characteri
 You can click on this image to see the concept of PopUp House (Video):
 [![ImageVideo](/images/popup01.jpg)](https://vimeo.com/81180775)
 
-**Some pictures of my work:**
+**Pictures of my work:**
 
 3D CAO of the experimental setup
 ![TestSetUp](/images/popup02.png)

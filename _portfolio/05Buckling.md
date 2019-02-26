@@ -5,8 +5,15 @@ collection: portfolio
 ---
 
 Explain the project.
-![Image](/images/bucklingLVL.png)
+![Image](/images/buckling04.png)
 
+**Pictures of my work:**
+
+Experimental Setup to study buckling
+![Image](/images/buckling08.png)
+
+Calculation models with mesh of beam elements
+![Image](/images/buckling07.png)
 
 
 [Link01 if needed](http://gamerro.github.io/files/WCTE2018.pdf)
