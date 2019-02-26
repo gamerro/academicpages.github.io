@@ -4,7 +4,7 @@ excerpt: "A new timber structure using wood connections<br/><img src='/images/pa
 collection: portfolio
 ---
 
-I participated in the structural design of an innovative wood-wood connection designed for a full-scale double-layered timber folded-plate structure: the Vidy theatre pavilion (Lausanne, Switzerland). It is the first implementation of a full-scale building with an origami shape using only wood-wood connections for a span of 20 meters. It was a very challenging project!
+I participated in the structural design of a a full-scale double-layered timber folded-plate structure: the Vidy theatre pavilion (Lausanne, Switzerland). It is the first implementation of a full-scale building with an origami shape using only wood-wood connections for a span of 20 meters. It was a very challenging and complex project.
 
 You can click on this image to see the project video:
 [![ImageVideo](/images/Imagevideoyoutube.png)](https://www.youtube.com/watch?v=co8yamUb6nI)
