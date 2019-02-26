@@ -1,5 +1,5 @@
 ---
-title: "Buckling of thin LVL beams"
+title: "Lateral Buckling of thin LVL Beams"
 excerpt: "Research project for the buckling characterization of thin LVL beams <br/><img src='/images/bucklingLVL.png'>"
 collection: portfolio
 ---
