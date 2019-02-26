@@ -4,7 +4,7 @@ excerpt: "Research project for the development of prefabricated structural timbe
 collection: portfolio
 ---
 
-During my PhD, I developed structural elements with regular geometries (like roof or slab) using wood-wood connections instead of steel fasteners or bonding by taking advantages of new digital fabrication techniques.
+During my PhD, I developed structural elements with regular geometries (like roof or slab) using wood-wood connections instead of steel fasteners or bonding by taking advantages of new digital fabrication techniques (Automation, CNC machine and robotics).
 
 ![Image](/images/caisson01.png)
 
