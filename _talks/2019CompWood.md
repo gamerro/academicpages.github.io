@@ -14,4 +14,6 @@ You can download the abstract of my presentation below.
 
 [Abstract of the Presentation](http://gamerro.github.io/files/CompWood2019.pdf)
 
+[Conference Program](http://gamerro.github.io/files/ProgramCompWood2019.pdf)
+
 [Website](https://lnu.se/en/research/conferences/compwood2019/)
