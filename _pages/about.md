@@ -21,7 +21,7 @@ So, please feel free to contact me for additional information about my work or i
 
 My Research Interests
 ------
-* Timber Engineering :evergreen_tree:
+* Timber Engineering 🌲
 * Structural Analysis
 * Design for Manufacture and Assembly (DfMA)
 * Innovative structure
