@@ -26,8 +26,8 @@ My Research Interests
 * Design for Manufacture and Assembly (DfMA) 🔨
 * Digital Fabrication 🤖
 * Innovative structure 🗼
-* Sustainable constructions 🌿♻
-* Save the world 🌎 (me being very humble)
+* Sustainable constructions ♻
+* Save the world 🌎 *(me being very humble)*
 
 Scientific Committees, Editorial and Societies
 ------
