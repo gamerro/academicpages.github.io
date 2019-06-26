@@ -10,3 +10,7 @@ citation: 'Robeller, C., Gamerro, J., Weinand, Y. (2017). &quot;Théâtre Vidy L
 
 ---
 This article describes the first full-scale realization of a double-layered, folded plate structure (DLFP), for a new hall for the Théâtre Vidy Lausanne. Enabled by a novel double-tenon connection technology, the shape of the components simultaneously serves as a joining aid for rapid and precise assembly, as well as for a direct transfer of the forces between the plates and in between the two layers of the construction. This is made possible by project-specific CAD plugins. These allow an algorithmic generation of the component geometries and the CNC ISO6983 G-code for the fully automatic 5-axis simultaneous machining.
+
+Research Gate link to full paper
+---
+[Full Paper Link](https://www.researchgate.net/publication/322157772_Theatre_Vidy_Lausanne_-_A_Double-Layered_Timber_Folded_Plate_Structure)

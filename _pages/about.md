@@ -35,6 +35,6 @@ Scientific Committees, Editorial and Societies
 
 Major Publications
 ------
-* Gamerro, J., Robeller, C., Weinand, Y. (2018). "Rotational mechanical behaviour of wood-wood connections with application to double-layered folded timber-plate structure." *Construction and Building Materials*. 165. pp. 434-442. [https://doi.org/10.1016/j.conbuildmat.2017.12.178](https://doi.org/10.1016/j.conbuildmat.2017.12.178)
-* Robeller, C., Gamerro, J., Weinand, Y. (2017). "Théâtre Vidy Lausanne - A Double-Layered Timber Folded Plate Structure. Journal of the International Association for Shell and Spatial Structures." *Journal of the International Association for Shell and Spatial Structures*. 58. pp. 295-314. [https://doi.org/10.20898/j.iass.2017.194.864](https://doi.org/10.20898/j.iass.2017.194.864)
-* Gamerro, J., Lemaître I., Weinand, Y. (2018). "Mechanical Characterization of Timber Structural Elements Using Integral Mechanical Attachments." *World Conference on Timber Engineering*, Seoul, South Korea. [link](https://gamerro.github.io/publication/WCTE2018)
+* Gamerro, J., Robeller, C., Weinand, Y. (2018). "Rotational mechanical behaviour of wood-wood connections with application to double-layered folded timber-plate structure." *Construction and Building Materials*. 165. pp. 434-442. [Link](https://gamerro.github.io/publication/VidyRotational)
+* Robeller, C., Gamerro, J., Weinand, Y. (2017). "Théâtre Vidy Lausanne - A Double-Layered Timber Folded Plate Structure. Journal of the International Association for Shell and Spatial Structures." *Journal of the International Association for Shell and Spatial Structures*. 58. pp. 295-314. [Link](https://gamerro.github.io/publication/VidyIASS)
+* Gamerro, J., Lemaître I., Weinand, Y. (2018). "Mechanical Characterization of Timber Structural Elements Using Integral Mechanical Attachments." *World Conference on Timber Engineering*, Seoul, South Korea. [Link](https://gamerro.github.io/publication/WCTE2018)
