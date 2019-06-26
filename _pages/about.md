@@ -22,11 +22,12 @@ So, please feel free to contact me for additional information about my work or i
 My Research Interests
 ------
 * Timber Engineering 🌲
-* Structural Analysis
-* Design for Manufacture and Assembly (DfMA)
+* Structural Analysis 💻 :computer:
+* Design for Manufacture and Assembly (DfMA) 🔨
+* Digital Fabrication  
 * Innovative structure
-* Sustainable constructions
-* Save the world (my French humility)
+* Sustainable constructions :herb:
+* Save the world 🌎 (me being very humble)
 
 Scientific Committees, Editorial and Societies
 ------
