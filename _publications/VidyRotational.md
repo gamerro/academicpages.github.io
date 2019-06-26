@@ -13,4 +13,5 @@ This paper is focused on the structural design of an innovative wood-wood connec
 Research Gate link to full paper
 ---
 For now, you can request a private full text copy via Researchgate website. Follow this link:
+
 [Full Paper Link](https://www.researchgate.net/publication/322615912_Rotational_mechanical_behaviour_of_wood-wood_connections_with_application_to_double-layered_folded_timber-plate_structure)
