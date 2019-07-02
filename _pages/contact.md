@@ -18,10 +18,10 @@ Academic Networking
 * [ORCID](https://orcid.org/0000-0001-7802-5345)
 
 Professional Networking
-------
+------''
 * [LinkedIn](https://www.linkedin.com/in/juliengamerro/?locale=en_US)
 
 Official Personal Page
 ------
-* [École polytechnique fédérale de Lausanne](https://people.epfl.ch/julien.gamerro?lang=en)
+* [École Polytechnique Fédérale de Lausanne (EPFL)](https://people.epfl.ch/julien.gamerro?lang=en)
 * [National Centre of Competence in Research (NCCR) Digital Fabrication](http://www.dfab.ch/twofolio/julien-gamerro-2/)
