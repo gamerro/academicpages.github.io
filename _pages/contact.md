@@ -4,17 +4,24 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
+As they are so many ways to stay connected, you can find below my different official mails, network accounts and personal webpages:
+
 Mail
 ------
-* [Academic Mail](mailto:julien.gamerro@epfl.ch)
+* [Professional Mail](mailto:julien.gamerro@epfl.ch)
 * [Personal Mail](mailto:julien.gamerro@gmail.com)
 
-Academic Portail
+Academic Networking
 ------
 * [ResearchGate](https://www.researchgate.net/profile/Julien_Gamerro)
 * [Google Scholar](https://scholar.google.com/citations?user=OdyQHEEAAAAJ&hl=en)
-* [University Page](https://people.epfl.ch/julien.gamerro?lang=en)
+* [ORCID](https://orcid.org/0000-0001-7802-5345)
 
-Professional Portail
+Professional Networking
 ------
 * [LinkedIn](https://www.linkedin.com/in/juliengamerro/?locale=en_US)
+
+Official Personal Page
+------
+* [École polytechnique fédérale de Lausanne](https://people.epfl.ch/julien.gamerro?lang=en)
+* [National Centre of Competence in Research (NCCR) Digital Fabrication](http://www.dfab.ch/twofolio/julien-gamerro-2/)
