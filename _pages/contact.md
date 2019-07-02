@@ -18,7 +18,7 @@ Academic Networking
 * [ORCID](https://orcid.org/0000-0001-7802-5345)
 
 Professional Networking
-------''
+------
 * [LinkedIn](https://www.linkedin.com/in/juliengamerro/?locale=en_US)
 
 Official Personal Page
