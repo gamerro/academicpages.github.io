@@ -8,8 +8,8 @@ As they are so many ways to stay connected, you can find below my different offi
 
 Mail
 ------
-* julien.gamerro@epfl.ch [Professional Mail](mailto:julien.gamerro@epfl.ch) 
-* julien.gamerro@gmail.com [Personal Mail](mailto:julien.gamerro@gmail.com)
+* julien.gamerro@epfl.ch    [Write a professional mail](mailto:julien.gamerro@epfl.ch) 
+* julien.gamerro@gmail.com  [Write a personal mail](mailto:julien.gamerro@gmail.com)
 
 Academic Networking
 ------
