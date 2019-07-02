@@ -22,7 +22,7 @@ Professional Networking
 ------
 * [LinkedIn](https://www.linkedin.com/in/juliengamerro/?locale=en_US)
 
-Official Personal Page
+Official Personal Webpages
 ------
 * [École Polytechnique Fédérale de Lausanne (EPFL)](https://people.epfl.ch/julien.gamerro?lang=en)
 * [National Centre of Competence in Research (NCCR) Digital Fabrication](http://www.dfab.ch/twofolio/julien-gamerro-2/)
