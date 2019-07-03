@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Julien Gamerro"
-  avatar           : "jupict.jpg"
+  avatar           : "/images/jupict.jpg"
   bio              : "PhD Student at EPFL, Timber Engineering"
   location         : "Lausanne, Switzerland"
   employer         :
