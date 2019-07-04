@@ -13,8 +13,6 @@ Steel fasteners and adhesive bonding are generally used as connections for moder
 
 Therefore, the purpose of this research is to present the development and mechanical behavior of standard structural elements using Oriented Strand Board (OSB) and Laminated Veneer Lumber (LVL) panels for slab or roof components using wood-wood connections. The objectives are to introduce a simplified calculation method based on beam elements and to compare its accuracy with an experimental investigation on large samples in order to satisfy the current standards for timber engineering. An implementation at building scale is planned with a partnership company.
 
+[Paper in WCTE 2018](https://www.researchgate.net/publication/333727813_Mechanical_Characterization_of_Timber_Structural_Elements_Using_Integral_Mechanical_Attachments)
 
-
-[Paper in WCTE 2018](http://gamerro.github.io/files/WCTE2018.pdf)
-
-[More information here](https://ibois.epfl.ch/page-18295-en-html/page-139843-en-html/page-139844-en-html/)
+[IBOIS Project Webpage](https://www.epfl.ch/labs/ibois/research/ongoingresearch/prefabricated-structural-timber-elements/)
