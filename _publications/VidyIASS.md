@@ -6,7 +6,7 @@ excerpt: 'This article describes the first full-scale realization of a double-la
 date: 2017-12-4
 venue: 'Journal of the International Association for Shell and Spatial Structures'
 paperurl: 'https://doi.org/10.20898/j.iass.2017.194.864'
-citation: 'Robeller, C., Gamerro, J., Weinand, Y. (2017). &quot;Théâtre Vidy Lausanne - A Double-Layered Timber Folded Plate Structure. Journal of the International Association for Shell and Spatial Structures.&quot; <i>Journal of the International Association for Shell and Spatial Structures</i>. 58. pp. 295-314.'
+citation: 'Robeller, C., Gamerro, J., Weinand, Y. (2017). &quot;Théâtre Vidy Lausanne - A Double-Layered Timber Folded Plate Structure. &quot; <i>Journal of the International Association for Shell and Spatial Structures</i>. 58. pp. 295-314.'
 
 ---
 [ResearchGate link to full paper](https://www.researchgate.net/publication/322157772_Theatre_Vidy_Lausanne_-_A_Double-Layered_Timber_Folded_Plate_Structure)
