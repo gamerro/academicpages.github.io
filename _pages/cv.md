@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Also available in PDF format.](http://gamerro.github.io/files/ResumeJulienGamerro.pdf)
+
 Education
 ======
 * **Ph.D in Civil Engineering**, EPFL, Switzerland, 2020 (expected)
