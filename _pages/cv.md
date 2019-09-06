@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[__Also available in PDF format.__](http://gamerro.github.io/files/ResumeJulienGamerro.pdf)
+[Also available in PDF format here.](http://gamerro.github.io/files/ResumeJulienGamerro.pdf)
 
 Education
 ======
