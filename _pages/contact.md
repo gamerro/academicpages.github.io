@@ -8,7 +8,7 @@ As they are so many ways to stay connected, you can find below my different offi
 
 Mail
 ------
-* contact@juliengamerro.com    [Write an mail](mailto:contact@juliengamerro.com)
+* contact@juliengamerro.com    [Write a mail](mailto:contact@juliengamerro.com)
 
 Academic Networking
 ------
