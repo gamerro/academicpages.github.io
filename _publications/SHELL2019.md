@@ -5,8 +5,8 @@ permalink: /publication/SHELL2019
 excerpt: 'This paper presents a modelling method based on planarization for double-curved segmented timber shell made from quad polygons and assembled by wood-wood connections.'
 date: 2019-09-24
 venue: 'Design Modelling Symposium'
-paperurl:
-citation: 'Vestartas, P., Rogeau, N., Gamerro, J., Weinand, Y. (2020).  &quot;Modelling Workflow for Segmented Timber Shells Using Wood-Wood Connections&quot; in: Gengnagel, C., Baverel, O., Burry, J., Ramsgaard Thomsen, M., Weinzierl, S. (Eds.), <i>Impact: Design With All Senses</i>. Springer International Publishing, Cham, pp. 596–607. https://doi.org/10.1007/978-3-030-29829-6_46.'
+paperurl: 'https://doi.org/10.1007/978-3-030-29829-6_46'
+citation: 'Vestartas, P., Rogeau, N., Gamerro, J., Weinand, Y. (2020).  &quot;Modelling Workflow for Segmented Timber Shells Using Wood-Wood Connections&quot; in: Gengnagel, C., Baverel, O., Burry, J., Ramsgaard Thomsen, M., Weinzierl, S. (Eds.), <i>Impact: Design With All Senses</i>. Springer International Publishing, Cham, pp. 596–607.'
 
 
 
