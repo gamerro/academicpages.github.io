@@ -30,8 +30,8 @@ Education
 
 Work experience
 ======
-* March 2016 - Now: **Research Assistant**
-  * Laboratory for Timber Constructions, EPFL, Lausanne, Switzerland
+* March 2016 - Now: **PhD Researcher**
+  * [The National Centre of Competence in Research Digital Fabrication (NCCR dfab)](http://www.dfab.ch)
   * Duties included: Research, Technology Transfer and Teaching
 * August 2015 - March 2016: **R&D Internship**
   * [PopUp House company](https://www.popup-house.com/en/), Aix-en-Provence, France
