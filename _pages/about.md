@@ -31,7 +31,9 @@ My Research Interests
 
 Scientific Committees, Editorial and Societies
 ------
+* Member of the Association [Restaurons Notre-Dame](https://www.restorenotredame.paris)
 * Reviewer for the [Construction and Building Materials Journal](https://www.journals.elsevier.com/construction-and-building-materials)
+
 
 Major Publications
 ------
