@@ -33,7 +33,7 @@ Work experience
 * March 2016 - Now: **PhD Researcher**
   * [The National Centre of Competence in Research Digital Fabrication (NCCR dfab)](http://www.dfab.ch)
   * Duties included: Research, Technology Transfer and Teaching
-* August 2015 - March 2016: **R&D Internship**
+* August 2015 - March 2016: **R&D Project**
   * [PopUp House company](https://www.popup-house.com/en/), Aix-en-Provence, France
   * Duties included: Experimental tests and calculation models for new timber frame structure.
   * Supervisor: Dr. J. F. Bocquet
@@ -64,8 +64,7 @@ Languages
 ======
 * French (Mother tongue)
 * English (C1)
-* Spanish (A2)
-* German (Beginner)
+* Spanish (A1, beginner)
 
 Publications
 ======
