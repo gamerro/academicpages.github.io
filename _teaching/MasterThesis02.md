@@ -19,4 +19,4 @@ location: "Lausanne, Switzerland"
 
 **Credits ECTS:** 4
 
-[Download report here](http://gamerro.github.io/files/ReportLestang.pdf)
+[Link to the report here](https://infoscience.epfl.ch/record/274137?ln=fr)
