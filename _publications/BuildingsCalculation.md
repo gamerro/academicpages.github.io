@@ -2,7 +2,7 @@
 title: "A Calculation Method for Interconnected Timber Elements Using Wood-Wood Connections"
 collection: publications
 permalink: /publication/BuildingsCalculation
-excerpt: 'The main objective of this research is to develop a convenient calculation model for practice that can capture the semi-rigid behavior of the connections and predict the effective bending stiffness of standardized structural elements using through tenon connections.'
+excerpt: 'The main objective of this research is to develop a convenient calculation model for practice that can capture the semi-rigid behavior of the connections and predict the effective bending stiffness of standardized structural elements using through tenon joints.'
 date: 2020-03-20
 venue: 'Buildings'
 paperurl: 'https://doi.org/10.3390/buildings10030061'
