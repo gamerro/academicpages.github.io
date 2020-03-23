@@ -37,9 +37,9 @@ Scientific Committees, Editorial and Societies
 
 Major Publications
 ------
+* Gamerro, J., Bocquet, J.F., Weinand, Y. (2020). "A Calculation Method for Interconnected Timber Elements Using Wood-Wood Connections." *Buildings*, 10, no. 3: 61. [Link](https://gamerro.github.io/publication/BuildingsCalculation)
 * Gamerro, J., Robeller, C., Weinand, Y. (2018). "Rotational mechanical behaviour of wood-wood connections with application to double-layered folded timber-plate structure." *Construction and Building Materials*. 165. pp. 434-442. [Link](https://gamerro.github.io/publication/VidyRotational)
 * Robeller, C., Gamerro, J., Weinand, Y. (2017). "Théâtre Vidy Lausanne - A Double-Layered Timber Folded Plate Structure. Journal of the International Association for Shell and Spatial Structures." *Journal of the International Association for Shell and Spatial Structures*. 58. pp. 295-314. [Link](https://gamerro.github.io/publication/VidyIASS)
-* Gamerro, J., Lemaître I., Weinand, Y. (2018). "Mechanical Characterization of Timber Structural Elements Using Integral Mechanical Attachments." *World Conference on Timber Engineering*, Seoul, South Korea. [Link](https://gamerro.github.io/publication/WCTE2018)
 
 Book
 ------

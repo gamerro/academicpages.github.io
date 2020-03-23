@@ -3,10 +3,10 @@ title: "A Calculation Method for Interconnected Timber Elements Using Wood-Wood 
 collection: publications
 permalink: /publication/BuildingsCalculation
 excerpt: 'This paper is focused on the structural design of an innovative wood-wood connection designed for a full-scale double-layered timber folded-plate structure: the new Vidy theatre pavilion (Lausanne, Switzerland).'
-date: 2018-03-20
+date: 2020-03-20
 venue: 'Buildings'
 paperurl: 'https://doi.org/10.3390/buildings10030061'
-citation: 'Gamerro, J. et al. (2020). &quot;A Calculation Method for Interconnected Timber Elements Using Wood-Wood Connections.&quot; <i>Buildings</i> 10, no. 3: 61.'
+citation: 'Gamerro, J. et al. (2020). &quot;A Calculation Method for Interconnected Timber Elements Using Wood-Wood Connections.&quot; <i>Buildings</i>, 10, no. 3: 61.'
 ---
 [Link to open-access full paper](https://doi.org/10.3390/buildings10030061)
 
