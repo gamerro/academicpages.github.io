@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am Julien, an engineer and PhD student at [EPFL](https://www.epfl.ch/index.en.html). I am working at the laboratory for timber constructions [IBOIS](https://ibois.epfl.ch) since 2016 and I am also part of the National Centre of Competence in Research for Digital Fabrication [NCCR dfab](http://www.dfab.ch) since November 2017.
+I am Julien, an engineer and PhD at [EPFL](https://www.epfl.ch/index.en.html). I am working at the laboratory for timber constructions [IBOIS](https://ibois.epfl.ch) since 2016 and I am also part of the National Centre of Competence in Research for Digital Fabrication [NCCR dfab](http://www.dfab.ch) since November 2017.
 
 I am a passionate scientist specialized in timber engineering and I want to share my knowledge and experience to create a sustainable built environment for our future. My atypical path and practical experience in timber industry has guided me through research to explore the wide range of possibilities in wood construction. My expertise is also focused on the integration of new technologies within the AEC Industry because it will disrupt the way we think and build.
 
