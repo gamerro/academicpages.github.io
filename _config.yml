@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julien Gamerro"
 title_separator          : "-"
 name                     : &Julien Gamerro"
-description              : &PhD Student at EPFL"
+description              : &M.Eng / MBA / PhD / EPFL"
 url                      : https://www.juliengamerro.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gamerro/gamerro.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Julien Gamerro"
   avatar           : "DSCF5576.jpg"
-  bio              : "PhD Student at EPFL, Timber Engineering"
+  bio              : "M.Eng / MBA / PhD / EPFL"
   location         : "Lausanne, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.ch/citations?user=OdyQHEEAAAAJ&hl=fr&oi=ao"
