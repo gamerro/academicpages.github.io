@@ -27,7 +27,6 @@ I am a passionate scientist specialized in timber engineering and I want to shar
 Moreover, I am very curious and I stay informed about society, policy and global context in which we are evolving. Therefore, I stay open to new challenges outside of my primary competences as long as there are interesting problems to solve and a motivated team.
 -->
 
-
 My Academic Research Interests
 ------
 * Digital Fabrication 💻
@@ -37,6 +36,7 @@ My Academic Research Interests
 * Timber Engineering 🌲
 * Structural Analysis 🔬
 * Save the world 🌎 *(me being very humble)*
+
 
 Scientific Committees, Editorial and Societies
 ------
