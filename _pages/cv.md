@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!---
 [Also available in PDF format here.](http://gamerro.github.io/files/ResumeJulienGamerro.pdf)
+-->
 
 Education
 ======
-* **Ph.D in Civil Engineering**, EPFL, Switzerland, July 2020
+* **Ph.D in Civil Engineering**, EPFL, Switzerland, 2020
   * **Thesis:** Development of Novel Standardized Structural Timber Elements Using Wood-Wood Connections
   * **Institute:** Laboratory for Timber Constructions [IBOIS](https://ibois.epfl.ch "Laboratory WebPage")
   * **Supervisors:** Prof. Y. Weinand and Dr. J. F. Bocquet
