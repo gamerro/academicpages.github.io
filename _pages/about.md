@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal page!
 
-My atypical path between theoretical and practical experience in timber industry guided me through research and innovation to obtain my PhD at EPFL in the Civil and Environmental Engineering program. I want to use my scientific rigor and curiosity to take research from the lab to the market and help researchers ensure that their discoveries have a greater impact on society.
+My atypical path between theoretical and practical experience in timber industry guided me through research and innovation to obtain my PhD at [EPFL](https://www.epfl.ch/about/overview/) in the Civil and Environmental Engineering program. I want to use my scientific rigor and curiosity to take research from the lab to the market and help researchers ensure that their discoveries have a greater impact on society.
 
 My primary expertise is focused on the integration of new technologies within the AEC Industry and timber engineering but I am very eager to take on new professional challenges outside of my core competencies as long as there are interesting challenges and a motivated team.
 
