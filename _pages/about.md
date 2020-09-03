@@ -28,7 +28,7 @@ Moreover, I am very curious and I stay informed about society, policy and global
 -->
 
 
-My Research Interests
+My Academic Research Interests
 ------
 * Digital Fabrication 💻
 * Design for Manufacture and Assembly (DfMA) 🔨
