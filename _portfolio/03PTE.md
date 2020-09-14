@@ -15,4 +15,4 @@ Therefore, the purpose of this research is to present the development and mechan
 
 [Paper in WCTE 2018](https://www.researchgate.net/publication/333727813_Mechanical_Characterization_of_Timber_Structural_Elements_Using_Integral_Mechanical_Attachments)
 
-[IBOIS Project Webpage](https://www.epfl.ch/labs/ibois/research/ongoingresearch/prefabricated-structural-timber-elements/)
+[IBOIS Project Webpage](https://www.epfl.ch/labs/ibois/research/previousresearch/standardized-structural-timber-elements/)
