@@ -10,30 +10,29 @@ redirect_from:
 
 Welcome to my personal page!
 
-My atypical path between theoretical and practical experience in timber industry guided me through research and innovation to obtain my PhD at [EPFL](https://www.epfl.ch/about/overview/) in the Civil and Environmental Engineering program. I want to use my scientific rigor and curiosity to take research from the lab to the market and help researchers ensure that their discoveries have a greater impact on society.
+I am Julien, an engineer and PhD working at the laboratory for timber constructions [IBOIS](https://ibois.epfl.ch) at [EPFL](https://www.epfl.ch/index.en.html). I am also part of the National Centre of Competence in Research for Digital Fabrication [NCCR dfab](http://www.dfab.ch) since November 2017.
 
-My primary expertise is focused on the integration of new technologies within the AEC Industry and timber engineering but I am very eager to take on new professional challenges outside of my core competencies as long as there are interesting challenges and a motivated team.
+I am a passionate scientist specialized in timber engineering and I want to share my knowledge and experience to create a sustainable built environment for our future. My atypical path and practical experience in timber industry has guided me through research to explore the wide range of possibilities in wood construction. My expertise is also focused on the integration of new technologies within the AEC Industry because it will disrupt the way we think and build.
+
+Moreover, I am very curious and I stay informed about society, policy and global context in which we are evolving. Therefore, I stay open to new challenges outside of my primary competences as long as there are interesting problems to solve and a motivated team.
 
 So, please feel free to contact me for additional information about my work or if you have interesting ideas you want to share.
 
 <!---
 [Also available in PDF format here.](http://gamerro.github.io/files/ResumeJulienGamerro.pdf)
 
+My atypical path between theoretical and practical experience in timber industry guided me through research and innovation to obtain my PhD at [EPFL](https://www.epfl.ch/about/overview/) in the Civil and Environmental Engineering program. I am also part of the National Centre of Competence in Research for Digital Fabrication [NCCR dfab](http://www.dfab.ch) since November 2017.
 
-I am Julien, an engineer and PhD at [EPFL](https://www.epfl.ch/index.en.html). I am working at the laboratory for timber constructions [IBOIS](https://ibois.epfl.ch) since 2016 and I am also part of the National Centre of Competence in Research for Digital Fabrication [NCCR dfab](http://www.dfab.ch) since November 2017.
-
-I am a passionate scientist specialized in timber engineering and I want to share my knowledge and experience to create a sustainable built environment for our future. My atypical path and practical experience in timber industry has guided me through research to explore the wide range of possibilities in wood construction. My expertise is also focused on the integration of new technologies within the AEC Industry because it will disrupt the way we think and build.
-
-Moreover, I am very curious and I stay informed about society, policy and global context in which we are evolving. Therefore, I stay open to new challenges outside of my primary competences as long as there are interesting problems to solve and a motivated team.
+I want to use my scientific rigor and curiosity to take research from the lab to the market and help researchers ensure that their discoveries have a greater impact on society. My primary expertise is focused on the integration of new technologies within the AEC Industry and timber engineering but I am very eager to take on new professional challenges outside of my core competencies as long as there are interesting challenges and a motivated team.
 -->
 
 My Academic Research Interests
 ------
+* Timber Engineering 🌲
+* Sustainable constructions ♻
 * Digital Fabrication 💻
 * Design for Manufacture and Assembly (DfMA) 🔨
 * Innovative structure 🗼
-* Sustainable constructions ♻
-* Timber Engineering 🌲
 * Structural Analysis 🔬
 * Save the world 🌎 *(me being very humble)*
 
